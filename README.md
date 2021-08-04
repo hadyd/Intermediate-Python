@@ -1,2 +1,2 @@
 # Intermediate Python
-Repository for learn Intermediate Python
+Learn Intermediate Python
